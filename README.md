@@ -43,7 +43,7 @@ This is a poster presentation on a reviewed article titled "Smart ultrasound dev
 ## POSTER
 
 <div align="center">
-    <img width="600" src="Images/Poster_presentation" alt="color picker" />
+    <img width="600" src="Images/Poster presentation.png" alt="color picker" />
 </div>
 
 
