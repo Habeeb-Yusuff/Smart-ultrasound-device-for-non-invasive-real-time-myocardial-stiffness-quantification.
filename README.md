@@ -40,10 +40,10 @@ This is a poster presentation on a reviewed article titled "Smart ultrasound dev
 
 
 
-## CAD Assembly
+## POSTER
 
 <div align="center">
-    <img width="600" src="Images/Pantograph.gif" alt="color picker" />
+    <img width="600" src="Images/Poster_presentation" alt="color picker" />
 </div>
 
 
